@@ -1,1 +1,3 @@
 # Simple-Math-Parser
+
+Simple Math Parser is a program written in C language that parses and evaluates simple mathematical expressions. It accepts user input as an infix notation expression and converts it to postfix notation for evaluation. It can handle arithmetic operations such as addition, subtraction, multiplication, and division, as well as parentheses for changing the order of operations. The program utilizes linked lists for storing the nodes of the expression and traverses the list to perform the required calculations. The program is useful for educational purposes or as a starting point for building more complex math parser applications. The source code is available on GitHub.
